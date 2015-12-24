@@ -14,4 +14,4 @@ The project includes code to:
 
 * estimate statistical factors based on the price returns of a select portion of the S&P500 universe
 
-* compute sensitivities
+* compute sensitivities and do historical back-testing
