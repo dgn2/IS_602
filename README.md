@@ -1,6 +1,8 @@
 # IS 602
 
-This github repository also contains this Jupyter notebook file, the HDF5 project data file, and includes code to:
+This github repository contains the Jupyter notebook file documenting my project, in addition to the HDF5 project data files. 
+
+The project includes code to:
 
 * Extract the historical iShares S&P500 holdings files
 
